@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This README.md file is displayed on your project page. You should edit this 
 file to describe your project, including instructions for building and 
 running the project, pointers to the license under which you are making the 
@@ -15,3 +16,6 @@ eye-catching graphic.
 
 Finally, consider defining some sprints and work items in Track & Plan to give 
 interested developers a sense of your cadence and upcoming enhancements.
+=======
+# subtitles-app
+>>>>>>> e0c98d38480506c7417f4303dccb241b6534b841
